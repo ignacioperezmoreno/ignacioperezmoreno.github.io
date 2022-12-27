@@ -31,7 +31,7 @@ url: "https://ignacioperezmoreno.github.io" # the base hostname & protocol for y
 github_username:  ignacioperezmoreno
 
 # Build settings
-theme: midnight
+theme: minima 
 plugins:
   - jekyll-feed
 
